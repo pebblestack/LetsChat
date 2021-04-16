@@ -11,4 +11,4 @@
 ### A user interacting(via text) with other
 ![user chat](https://github.com/pebblestack/LetsChat/blob/main/Assets/Screenshot_20210416_170735.jpg)
 ### Main page of the user currently logged in
-![latest chats](https://github.com/pebblestack/LetsChat/blob/main/Assets/Screenshot_20210416_170735.jpg)
+![latest chats](https://github.com/pebblestack/LetsChat/blob/main/Assets/Screenshot_20210416_170800.jpg)
